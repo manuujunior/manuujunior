@@ -4,9 +4,9 @@ I am a Computer Science student passionate about solving problems and learning n
 
 #### 💻 Technologies and Tools
 
-- Languages: HTML and CSS, Java, JavaScript, SQL
-- Frameworks: ---
-- Database: MySQL
+- Languages: Java, JavaScript, SQL
+- Frameworks: Spring
+- Database: PostgreSQL
 - Version Control: Git
 - Operating System: Linux (Ubuntu is my favorite!)
 
