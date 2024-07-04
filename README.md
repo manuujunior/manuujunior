@@ -4,7 +4,7 @@ I am a Computer Science student passionate about solving problems and learning n
 
 #### 💻 Technologies and Tools
 
-- Languages: Golang, JavaScript && Solidiy
+- Languages: Golang, JavaScript & Solidity
 - Database: MySQL,PostgreSQL & MongoDB
 - Version Control: Git
 - Operating System: Linux (Ubuntu is my favorite!)
