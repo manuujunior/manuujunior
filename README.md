@@ -1,17 +1,17 @@
 ### 👋 Hello, I am Manuel Dinis João Júnior
 
-I am a Computer Science student passionate about solving problems and learning new technologies. Currently, I am enhancing my skills in Software Engineering, focusing on the development of robust and efficient software.
+I am a Computer Science student passionate about solving problems and learning new technologies. Currently, I am enhancing my skills in Ethical Hacking, focusing on the development of robust tools to explore vulnerabilities in systems.
 
 #### 💻 Technologies and Tools
 
-- Languages: Golang, JavaScript & Java
-- Database: MySQL,PostgreSQL & MongoDB
+- Languages: Golang, JavaScript, SQL & Python
+- Database: MySQL & PostgreSQL
 - Version Control: Git
-- Operating System: Linux (Ubuntu is my favorite!)
+- Operating System:  Parrot OS (it's my favorite!)
 
 #### 🚀 Interests
 
-Beyond academic studies, I have a strong interest in cryptography and information security. I believe that data protection is crucial in the constantly evolving digital world.
+Beyond academic studies, I have a strong interest in cryptography and information security. I believe that every system has a weakness and is crucial that we discover this flaws to create hacker-proof systems.
 
 #### 🌐 Projects
 
@@ -21,7 +21,7 @@ Beyond academic studies, I have a strong interest in cryptography and informatio
 
 I am currently delving deeper into:
 
-- Development of scalable web applications
+- Exploit Development
 - Automation
 - Advanced command-line tools in Linux
 
